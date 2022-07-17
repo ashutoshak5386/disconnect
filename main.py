@@ -43,7 +43,6 @@ def eula():
     else:
         main_win()
 
-
 def main_win():
     def changer():
         quote_filer=open("quotes.data","r+")
